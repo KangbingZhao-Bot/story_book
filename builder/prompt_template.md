@@ -1,0 +1,16 @@
+[IMAGE_CORE]
+
+---
+
+WORLD CONTEXT:
+[WORLD]
+
+---
+
+STYLE INTENT:
+[STYLE]
+
+---
+
+STORY:
+[STORY]
