@@ -1,18 +1,17 @@
-IMAGE RULES (HIGHEST PRIORITY)
+【最高优先级：整本书输出格式】
+- 本书共 15 页，必须输出 1–15 页，按页编号逐页生成。
+- 不得省略、合并、跳过任何页；不得用总结代替后半段；不得只输出大纲。
+- 每一页必须包含两部分：
+  A. 本页文字（旁白/台词，中文，句子短）
+  B. 本页画面描述（用于作图，中文，描述清晰可画）
 
-Vehicle-only world.
-No humans.
-No drivers.
-No people inside vehicles.
+【世界硬规则（最高优先级）】
+- 这是一个只有工程车的世界：画面里不出现任何人类（工人/路人/驾驶员/手/脚/人影/倒影/海报人物都不出现）。
+- 工程车可以自行工作，不需要驾驶员：车内不出现人，也不展示驾驶舱内部细节。
+- 车窗必须画成反光或深色不透明玻璃；镜头避免能看进车内的角度；禁止驾驶室内景、禁止挡风玻璃特写。
 
-Vehicles operate autonomously.
-
-No anthropomorphic features:
-- no eyes
-- no mouth
-- no facial expressions
-
-Style: gentle watercolor, realistic construction vehicles.
-
-Exterior view only.
-Do not show interiors.
+【图像硬规则】
+- 禁止车辆拟人化五官：不画眼睛、嘴巴、表情，不贴“脸状贴纸”。
+- 场景真实：工地 / 城市道路 / 桥梁维修 / 公园施工区 / 建筑现场；不出现魔法/童话/科幻元素。
+- 风格：写实水彩 / 真实工程插画风（温柔光影、线条清晰但不硬朗）。
+- 全书画风保持一致；车辆外形与配色保持一致（尤其翻翻：蓝色车头 + 黄色车斗）。
